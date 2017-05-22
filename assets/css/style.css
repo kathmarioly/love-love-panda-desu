@@ -13,6 +13,7 @@ font-family: 'Raleway', sans-serif;
 	box-sizing: border-box;
 	font-family: 'Raleway', sans-serif;
     font-size: 16px;
+    background-color: #F78E69;
 }
 
 .bienvenida{
@@ -35,6 +36,54 @@ p{
 	font-size: 23px;
 }
 img{
+	background-image: url(../img/dos.jpg);
 	filter: grayscale(100%);
 	background-color: #F78E69;
 }
+
+.texto{
+	margin: 55px 0px 55px 0px; 
+	height: 800px;
+	width: 100%;
+	background-color: #ABE188;
+}
+#aboutPandas{
+	text-align: center;
+	border-top: 35px solid #ABE188;
+	box-sizing: content-box;
+    margin-left: 1000px;
+	background-color: #F78E69;
+	height: 200px;
+	width: 550px;
+	font-family: 'Raleway', sans-serif;
+	color: white;
+}
+#foto2 {
+	background-image: url(../img/dos.jpg);
+	background-position: center;
+	height: 900px;
+	width: 100%;
+	background-size: cover;
+	filter: grayscale(100%);
+	}
+.texto2{
+	background-color: #ABE188;
+	margin: 0px 0px 55px 0px; 
+	height: 800px;
+	font-family: 'Raleway', sans-serif;
+	color:white;
+	text-align: center;
+	
+}
+#foto3 {
+	align-content: center;
+    height: auto;
+    float: center; 
+	filter: grayscale(100%);
+
+}
+#uno, #dos,#tres,#cuatro{
+	box-sizing: padding-box;
+	float: center; 
+	border: 7px solid white;
+	margin: 10px;
