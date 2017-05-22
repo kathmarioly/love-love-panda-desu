@@ -15,13 +15,26 @@ font-family: 'Raleway', sans-serif;
     font-size: 16px;
 }
 
-#bienvenida{
-	font-family: 'Raleway', sans-serif;
+.bienvenida{
 	background-color: #F78E69;
-	color: whitesmoke;
-	padding: 50px 0;
+	font-family: 'Raleway', sans-serif;
+	margin: 0px;
+	height: 250px;
+	box-sizing: border-box;
+	color: white;
+	text-align: right;
+	
 }
 
-.mensaje{
-	float: right;
+h1{
+	padding: 70px 40px 20px 1px;
+	font-size: 50px;
+}
+p{
+	padding: 15px 40px 20px 20px;
+	font-size: 23px;
+}
+img{
+	filter: grayscale(100%);
+	background-color: #F78E69;
 }
